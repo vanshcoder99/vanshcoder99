@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshcoder99](https://github.com/vanshcoder99)
 
-- 📫 nagpalv931@gmail.com **nagpalv931@gmail.com**
+- 📫 How to reach me **nagpalv931@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13j2nhTCrDzXrvQhDEq8NxHbntY3w8E_m/view?usp=drive_link](https://drive.google.com/file/d/13j2nhTCrDzXrvQhDEq8NxHbntY3w8E_m/view?usp=drive_link)
 
