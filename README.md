@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/vanshcoder99" target="blank"><img src="https://img.shields.io/twitter/follow/dishu_singla01?logo=twitter&style=for-the-badge" alt="vanshcoder99" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vanshcoder99](https://github.com/vanshcoder99)
+- 👨‍💻 Explore my projects: **[vanshcoder99](https://github.com/vanshcoder99)**
 
-- 📫 How to reach me **nagpalv931@gmail.com**
+- 📫 Reach me at: **nagpalv931@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13j2nhTCrDzXrvQhDEq8NxHbntY3w8E_m/view?usp=drive_link](https://drive.google.com/file/d/13j2nhTCrDzXrvQhDEq8NxHbntY3w8E_m/view?usp=drive_link)
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/13j2nhTCrDzXrvQhDEq8NxHbntY3w8E_m/view?usp=drive_link)**
 
 - ⚡ Fun fact **I enjoy debugging code more than writing it 😄**
 
